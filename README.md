@@ -27,14 +27,15 @@
 ---
 
 ### 🚀 Projects
-
-| 🔹 Project | 🛠️ Tech Stack | ✨ Highlights |
+| 📌 Project | 🛠️ Tech Stack | ✨ Highlights |
 |-----------|---------------|--------------|
 | **[Weather & Pollution Dashboard](https://github.com/suraj4659/live_weather_Dashboard-power-bi)** | Power BI | Real-time AQI and weather tracking with forecasting |
 | **[IoT Disaster Detection](https://github.com/suraj4659/iot_device_detection_for_weather)** | SQL | Anomaly detection using 20,000+ IoT sensor logs |
-| **[Walmart Sales Analysis](https://github.com/suraj4659/walmart_EDA_sql)** | Python, SQL | Dynamic sales insights across multiple cities |
+| **[Walmart Sales Analysis](https://github.com/suraj4659/Walmart_EDA_sql)** | Python, SQL | Dynamic sales insights across multiple cities |
 | **[Vendor Performance Analysis](https://github.com/suraj4659/vendor_performamce-sql-python-power_bi)** | SQL, Python, Power BI | Supplier efficiency and defect rate analysis |
 | **[Library Borrowing EDA](https://github.com/suraj4659/library_eda_sql)** | SQL | Genre trends and user borrowing behavior |
+| **[Uber Ride Booking Analysis](https://github.com/yourusername/uber-ride-booking-analysis)** | Python, Pandas, Seaborn | Behavioral insights on ride purpose, fare patterns, and business vs personal trends |
+
 
 ---
 
