@@ -39,12 +39,8 @@
 
 ---
 
-### 📍 Location & Fun Info
-
+### 📍 Location 
 > 🏙️ Based in: **Mumbai, India**  
-> ☀️ Weather: *Hot & Humid* (Real-time API can be added here)  
-> 📅 Currently working on: **Enhancing data storytelling & dashboard design**
-
 ---
 
 ### 🌐 Where to Find Me
