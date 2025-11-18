@@ -25,17 +25,20 @@
 </p>
 
 ---
-
 ### 🚀 Projects
 | 📌 Project | 🛠️ Tech Stack | ✨ Highlights |
 |-----------|---------------|--------------|
-| **[HR Attrition Prediction Model](https://github.com/suraj4659/hr_attrition_prediction_model-using-python-power-bi.git)** | Python, Power BI | Predicts employee attrition using ML and visual dashboards |
-| **[Vendor Performance Analysis](https://github.com/suraj4659/vendor_performamce-sql-python-power_bi)** | SQL, Python, Power BI | Supplier efficiency and defect rate analysis |
-| **[Customer Lifetime Value Prediction](https://github.com/suraj4659/customer_lifetime_value_predation_model-by-using-python.git)** | Python | Forecasts customer lifetime value for better retention and marketing strategies |
-| **[Weather & Pollution Dashboard](https://github.com/suraj4659/live_weather_Dashboard-power-bi)** | Power BI | Real-time AQI and weather tracking with forecasting |
-| **[Walmart Sales Analysis](https://github.com/suraj4659/Walmart_EDA_sql)** | Python, SQL | Dynamic sales insights across multiple cities |
-| **[Library Borrowing EDA](https://github.com/suraj4659/library_eda_sql)** | SQL | Genre trends and user borrowing behavior |
-| **[Uber Ride Booking Analysis](https://github.com/yourusername/uber-ride-booking-analysis)** | Python, Pandas, Seaborn | Behavioral insights on ride purpose, fare patterns, and business vs personal trends |
+| **Customer Segmentation & Churn Prediction** | Python (Scikit-learn, XGBoost) | End-to-end ML pipeline: RFM features, clustering & churn prediction (85% accuracy) |
+| **Real Estate Market Insights Dashboard** | Python (Web Scraping), Power BI | Automated scraping of 10K+ listings + interactive market insights dashboard |
+| **HR Attrition Prediction Model** | Python, Power BI | Predicts employee attrition using ML models (89% accuracy) + HR analytics dashboard |
+| **Vendor Performance Analysis** | SQL, Python, Power BI | Supplier cost, delivery & defect analysis with real-time dashboards |
+| **E-Commerce Sales Dashboard** | Power BI, SQL | Automated KPIs & dynamic revenue, profit, and category performance analysis |
+| **Royal Enfield Sales Analysis** | SQL, Excel, Power BI | Identified top regions & high-revenue models using SQL-based insights |
+| **Customer Lifetime Value Prediction** | Python | Forecasts customer lifetime value for targeted retention strategies |
+| **Weather & Pollution Dashboard** | Power BI | Real-time AQI & weather tracking with forecasting visuals |
+| **Walmart Sales Analysis** | Python, SQL | Dynamic sales insights across multiple cities |
+| **Library Borrowing EDA** | SQL | Genre trends & user borrowing behavior patterns |
+| **Uber Ride Booking Analysis** | Python, Pandas, Seaborn | Ride purpose segmentation, fare distribution & business vs personal trends |
 
 ---
 
